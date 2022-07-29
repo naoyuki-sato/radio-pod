@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>リリー・フランキー / スナックラジオ</title>
+		<language>ja</language>
+		<image>
+			<url>https://naoyuki-sato.github.io/radio-pod/snack_300x300.jpg</url>
+		</image>
+		<item>
+			<title>2022/07/23 放送回</title>
+			<enclosure length="19568511" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207231600_202207231655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207231600_202207231655.m4a</guid>
+			<pubDate>Sat Jul 23 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/07/16 放送回</title>
+			<enclosure length="19569305" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207161600_202207161655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207161600_202207161655.m4a</guid>
+			<pubDate>Sat Jul 16 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/07/09 放送回</title>
+			<enclosure length="19569257" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207091600_202207091655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207091600_202207091655.m4a</guid>
+			<pubDate>Sat Jul  9 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/07/02 放送回</title>
+			<enclosure length="19568787" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207021600_202207021655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202207021600_202207021655.m4a</guid>
+			<pubDate>Sat Jul  2 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/06/25 放送回</title>
+			<enclosure length="19569064" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206251600_202206251655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206251600_202206251655.m4a</guid>
+			<pubDate>Sat Jun 25 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/06/18 放送回</title>
+			<enclosure length="19568558" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206181600_202206181655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206181600_202206181655.m4a</guid>
+			<pubDate>Sat Jun 18 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/06/11 放送回</title>
+			<enclosure length="19568546" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206111600_202206111655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206111600_202206111655.m4a</guid>
+			<pubDate>Sat Jun 11 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/06/04 放送回</title>
+			<enclosure length="19568546" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206041600_202206041655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202206041600_202206041655.m4a</guid>
+			<pubDate>Sat Jun  4 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/05/28 放送回</title>
+			<enclosure length="19569088" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205281600_202205281655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205281600_202205281655.m4a</guid>
+			<pubDate>Sat May 28 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/05/21 放送回</title>
+			<enclosure length="19568811" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205211600_202205211655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205211600_202205211655.m4a</guid>
+			<pubDate>Sat May 21 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/05/14 放送回</title>
+			<enclosure length="19569088" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205141600_202205141655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205141600_202205141655.m4a</guid>
+			<pubDate>Sat May 14 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/05/07 放送回</title>
+			<enclosure length="19569076" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205071600_202205071655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202205071600_202205071655.m4a</guid>
+			<pubDate>Sat May  7 17:00:00 2022</pubDate>
+		</item>
+		<item>
+			<title>2022/04/30 放送回</title>
+			<enclosure length="19569112" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202204301600_202204301655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202204301600_202204301655.m4a</guid>
+			<pubDate>Sat Apr 30 17:00:00 2022</pubDate>
+		</item>
+	</channel>
+</rss>
