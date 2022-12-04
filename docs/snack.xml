@@ -12,29 +12,5 @@
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202212031600_202212031655.m4a</guid>
 			<pubDate>Sat Dec  3 17:00:00 2022</pubDate>
 		</item>
-		<item>
-			<title>2022/11/26 放送回</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211261600_202211261655.m4a" length="19567788" type="audio/mp4"/>
-			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211261600_202211261655.m4a</guid>
-			<pubDate>Sat Nov 26 17:00:00 2022</pubDate>
-		</item>
-		<item>
-			<title>2022/11/19 放送回</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211191600_202211191655.m4a" length="19569293" type="audio/mp4"/>
-			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211191600_202211191655.m4a</guid>
-			<pubDate>Sat Nov 19 17:00:00 2022</pubDate>
-		</item>
-		<item>
-			<title>2022/11/12 放送回</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211121600_202211121655.m4a" length="19568799" type="audio/mp4"/>
-			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211121600_202211121655.m4a</guid>
-			<pubDate>Sat Nov 12 17:00:00 2022</pubDate>
-		</item>
-		<item>
-			<title>2022/11/05 放送回</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211051600_202211051655.m4a" length="19569064" type="audio/mp4"/>
-			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202211051600_202211051655.m4a</guid>
-			<pubDate>Sat Nov  5 17:00:00 2022</pubDate>
-		</item>
 	</channel>
 </rss>
