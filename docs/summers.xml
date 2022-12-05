@@ -1,64 +1,124 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
 	<channel>
-		<title>‚³‚Ü‚Ÿ`‚¸‚Ì‚³‚Üƒ‰ƒW</title>
+		<title>ã•ã¾ãï½ãšã®ã•ã¾ãƒ©ã‚¸</title>
 		<language>ja</language>
 		<image>
 			<url>https://naoyuki-sato.github.io/radio-pod/summers_300x300.jpg</url>
 		</image>
 		<item>
-			<title>2022/09/24 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209241500_202209241530.m4a" length="10674739" type="audio/mp4"/>
+			<title>2022/12/03 æ”¾é€å›</title>
+			<enclosure length="10674566" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202212031500_202212031530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202212031500_202212031530.m4a</guid>
+			<pubDate>Sat, 03 Dec 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/11/26 æ”¾é€å›</title>
+			<enclosure length="10673971" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211261500_202211261530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211261500_202211261530.m4a</guid>
+			<pubDate>Sat, 26 Nov 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/11/19 æ”¾é€å›</title>
+			<enclosure length="10674035" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211191500_202211191530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211191500_202211191530.m4a</guid>
+			<pubDate>Sat, 19 Nov 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/11/12 æ”¾é€å›</title>
+			<enclosure length="10674000" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211121500_202211121530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211121500_202211121530.m4a</guid>
+			<pubDate>Sat, 12 Nov 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/11/05 æ”¾é€å›</title>
+			<enclosure length="10673745" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211051500_202211051530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202211051500_202211051530.m4a</guid>
+			<pubDate>Sat, 05 Nov 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/10/29 æ”¾é€å›</title>
+			<enclosure length="10674034" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210291500_202210291530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210291500_202210291530.m4a</guid>
+			<pubDate>Sat, 29 Oct 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/10/22 æ”¾é€å›</title>
+			<enclosure length="10674470" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210221500_202210221530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210221500_202210221530.m4a</guid>
+			<pubDate>Sat, 22 Oct 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/10/15 æ”¾é€å›</title>
+			<enclosure length="10673943" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210151500_202210151530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210151500_202210151530.m4a</guid>
+			<pubDate>Sat, 15 Oct 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/10/08 æ”¾é€å›</title>
+			<enclosure length="10674100" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210081500_202210081530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210081500_202210081530.m4a</guid>
+			<pubDate>Sat, 08 Oct 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/10/01 æ”¾é€å›</title>
+			<enclosure length="10674510" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210011500_202210011530.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202210011500_202210011530.m4a</guid>
+			<pubDate>Sat, 01 Oct 2022 08:00:00 -0000</pubDate>
+		</item>
+		<item>
+			<title>2022/09/24 æ”¾é€å›</title>
+			<enclosure length="10674739" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209241500_202209241530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209241500_202209241530.m4a</guid>
-			<pubDate>Sat Sep 24 17:00:00 2022</pubDate>
+			<pubDate>Sat, 24 Sep 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/09/17 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209171500_202209171530.m4a" length="10674734" type="audio/mp4"/>
+			<title>2022/09/17 æ”¾é€å›</title>
+			<enclosure length="10674734" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209171500_202209171530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209171500_202209171530.m4a</guid>
-			<pubDate>Sat Sep 17 17:00:00 2022</pubDate>
+			<pubDate>Sat, 17 Sep 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/09/10 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209101500_202209101530.m4a" length="10673696" type="audio/mp4"/>
+			<title>2022/09/10 æ”¾é€å›</title>
+			<enclosure length="10673696" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209101500_202209101530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209101500_202209101530.m4a</guid>
-			<pubDate>Sat Sep 10 17:00:00 2022</pubDate>
+			<pubDate>Sat, 10 Sep 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/09/03 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209031500_202209031530.m4a" length="10674542" type="audio/mp4"/>
+			<title>2022/09/03 æ”¾é€å›</title>
+			<enclosure length="10674542" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209031500_202209031530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202209031500_202209031530.m4a</guid>
-			<pubDate>Sat Sep  3 17:00:00 2022</pubDate>
+			<pubDate>Sat, 03 Sep 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/08/27 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208271500_202208271530.m4a" length="10674011" type="audio/mp4"/>
+			<title>2022/08/27 æ”¾é€å›</title>
+			<enclosure length="10674011" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208271500_202208271530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208271500_202208271530.m4a</guid>
-			<pubDate>Sat Aug 27 17:00:00 2022</pubDate>
+			<pubDate>Sat, 27 Aug 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/08/20 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208201500_202208201530.m4a" length="10674507" type="audio/mp4"/>
+			<title>2022/08/20 æ”¾é€å›</title>
+			<enclosure length="10674507" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208201500_202208201530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208201500_202208201530.m4a</guid>
-			<pubDate>Sat Aug 20 17:00:00 2022</pubDate>
+			<pubDate>Sat, 20 Aug 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/08/13 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208131500_202208131530.m4a" length="10673969" type="audio/mp4"/>
+			<title>2022/08/13 æ”¾é€å›</title>
+			<enclosure length="10673969" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208131500_202208131530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208131500_202208131530.m4a</guid>
-			<pubDate>Sat Aug 13 17:00:00 2022</pubDate>
+			<pubDate>Sat, 13 Aug 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/08/06 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208061500_202208061530.m4a" length="10674521" type="audio/mp4"/>
+			<title>2022/08/06 æ”¾é€å›</title>
+			<enclosure length="10674521" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208061500_202208061530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202208061500_202208061530.m4a</guid>
-			<pubDate>Sat Aug  6 17:00:00 2022</pubDate>
+			<pubDate>Sat, 06 Aug 2022 08:00:00 -0000</pubDate>
 		</item>
 		<item>
-			<title>2022/07/30 •ú‘—‰ñ</title>
-			<enclosure url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202207301500_202207301530.m4a" length="10673817" type="audio/mp4"/>
+			<title>2022/07/30 æ”¾é€å›</title>
+			<enclosure length="10673817" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/summers/LFR_202207301500_202207301530.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/summers/LFR_202207301500_202207301530.m4a</guid>
-			<pubDate>Sat Jul 30 17:00:00 2022</pubDate>
+			<pubDate>Sat, 30 Jul 2022 08:00:00 -0000</pubDate>
 		</item>
 	</channel>
 </rss>
