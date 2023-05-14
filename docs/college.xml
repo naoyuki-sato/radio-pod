@@ -7,6 +7,12 @@
 			<url>https://naoyuki-sato.github.io/radio-pod/college_300x300.jpg</url>
 		</image>
 		<item>
+			<title>2023/05/14 放送回</title>
+			<enclosure length="3936256" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/college/FMJ_202305141800_202305141900.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/college/FMJ_202305141800_202305141900.m4a</guid>
+			<pubDate>Sun, 14 May 2023 08:00:00 -0000</pubDate>
+		</item>
+		<item>
 			<title>2023/05/07 放送回</title>
 			<enclosure length="21347982" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/college/FMJ_202305071800_202305071900.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/college/FMJ_202305071800_202305071900.m4a</guid>
@@ -327,8 +333,4 @@
 		<item>
 			<title>2022/05/01 放送回</title>
 			<enclosure length="19213203" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/college/FMJ_202205011800_202205011854.m4a"/>
-			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/college/FMJ_202205011800_202205011854.m4a</guid>
-			<pubDate>Sun, 01 May 2022 08:00:00 -0000</pubDate>
-		</item>
-	</channel>
-</rss>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/college/FMJ_202205011800_20220501
