@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>そもそもの話</title>
+		<language>ja</language>
+		<image>
+			<url>https://naoyuki-sato.github.io/radio-pod/somosomo_300x300.jpg</url>
+		</image>
+		<item>
+			<title>2023/10/07 放送回</title>
+			<enclosure length="19568787" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202310071700_202310071755.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202310071700_202310071755.m4a</guid>
+			<pubDate>Sat, 07 Oct 2023 08:00:00 -0000</pubDate>
+		</item>
+	</channel>
+</rss>

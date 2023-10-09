@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>THE WORLD OF ALLURE - 心奪う、世界へ -</title>
+		<language>ja</language>
+		<image>
+			<url>https://naoyuki-sato.github.io/radio-pod/alllure_arisu_300x300.jpg</url>
+		</image>
+		<item>
+			<title>2023/10/07 放送回</title>
+			<enclosure length="8894870" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/allure/FMT_202310070800_202310070825.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/allure/FMT_202310070800_202310070825.m4a</guid>
+			<pubDate>Sat, 07 Oct 2023 08:00:00 -0000</pubDate>
+		</item>
+	</channel>
+</rss>
