@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>Volkswagen DRIVING WITH YOU</title>
+		<language>ja</language>
+		<image>
+			<url>https://naoyuki-sato.github.io/radio-pod/driving_300x300.jpg</url>
+		</image>
+		<item>
+			<title>2024/05/12 放送回</title>
+			<enclosure length="21348234" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/driving/FMJ_202405121200_202405121300.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/driving/FMJ_202405121200_202405121300.m4a</guid>
+			<pubDate>Sun, 12 May 2024 08:00:00 -0000</pubDate>
+		</item>
+	</channel>
+</rss>
