@@ -7,6 +7,12 @@
 			<url>https://naoyuki-sato.github.io/radio-pod/snack_300x300.jpg</url>
 		</image>
 		<item>
+			<title>2026/04/04 放送回</title>
+			<enclosure length="20110659" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202604041600_202604041655.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202604041600_202604041655.m4a</guid>
+			<pubDate>Sat, 04 Apr 2026 08:00:00 -0000</pubDate>
+		</item>
+		<item>
 			<title>2026/03/28 放送回</title>
 			<enclosure length="20110590" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/snack/FMT_202603281600_202603281655.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/snack/FMT_202603281600_202603281655.m4a</guid>
