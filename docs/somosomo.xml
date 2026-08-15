@@ -7,6 +7,12 @@
 			<url>https://naoyuki-sato.github.io/radio-pod/somosomo_300x300.jpg</url>
 		</image>
 		<item>
+			<title>2026/08/15 放送回</title>
+			<enclosure length="20110652" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202608151700_202608151755.m4a"/>
+			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202608151700_202608151755.m4a</guid>
+			<pubDate>Sat, 15 Aug 2026 08:00:00 -0000</pubDate>
+		</item>
+		<item>
 			<title>2026/08/08 放送回</title>
 			<enclosure length="20110622" type="audio/mp4" url="https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202608081700_202608081755.m4a"/>
 			<guid isPermaLink="true">https://naoyuki-sato.github.io/radio-pod/somosomo/FMT_202608081700_202608081755.m4a</guid>
